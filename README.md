@@ -66,29 +66,6 @@ Here are some ideas to get you started:
 <br>
 
 ---
-<!-- ## 🎥 Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Getting Started With Shell Script || Shell Programming&lpar;Tut-1&rpar;](https://www.youtube.com/watch?v=5kILw3wb_RI)
-- [Tutorial 12:- Checking for Palindrome Number in Shell Programming](https://www.youtube.com/watch?v=Sj9NPR8WjHw)
-- [Tutorial 11:- Reversing a Given Number in Shell Programming](https://www.youtube.com/watch?v=RviMOMA8tCI)
-- [Text Overlay On Image Using CSS | Textmorphism](https://www.youtube.com/watch?v=2fDcaAeSOCM)
-- [Tutorial 10 : Calculate the sum of the digit of a given number || Shell Programming](https://www.youtube.com/watch?v=ABKFuBBzfz4)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
----
-
-### 📙 Recent Blogs on Hashnode
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started With Python](https://susmitadey.hashnode.dev/getting-started-with-python)
-- [Getting Started With Shell Scripting&lpar;Shell Programming&rpar;](https://susmitadey.hashnode.dev/getting-started-with-shell-scriptingshell-programming)
-- [Text Overlay on an Image Using HTML &amp; CSS](https://susmitadey.hashnode.dev/text-overlay-on-an-image-using-html-and-css)
-- [Watch Star Wars Movie In Command Prompt&lpar;cmd&rpar;](https://susmitadey.hashnode.dev/watch-star-wars-movie-in-command-promptcmd)
-- [Use Emojis Anywhere You Like In Windows](https://susmitadey.hashnode.dev/use-emojis-anywhere-you-like-in-windows)
-<!-- BLOG-POST-LIST:END --> 
--->
-
----
 
 <!-- ## Stats 📈 -->
 <details>
@@ -96,8 +73,8 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 <a href="https://github.com/its-abhirup">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=its-abhirup&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=its-abhirup&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-abhirup&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Abhirup's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-abhirup&layout=compact&theme=react&hide_border=true" />
 </a>
 </p>
 </details>
@@ -109,16 +86,7 @@ Here are some ideas to get you started:
 <br>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Susmita-Dey/reviewing-a-pull-request/pull/4) in [Susmita-Dey/reviewing-a-pull-request](https://github.com/Susmita-Dey/reviewing-a-pull-request)
-2. 💪 Opened PR [#4](https://github.com/Susmita-Dey/reviewing-a-pull-request/pull/4) in [Susmita-Dey/reviewing-a-pull-request](https://github.com/Susmita-Dey/reviewing-a-pull-request)
-3. ❗️ Reopened issue [#2](https://github.com/Susmita-Dey/github-slideshow/issues/2) in [Susmita-Dey/github-slideshow](https://github.com/Susmita-Dey/github-slideshow)
-4. ❗️ Closed issue [#2](https://github.com/Susmita-Dey/github-slideshow/issues/2) in [Susmita-Dey/github-slideshow](https://github.com/Susmita-Dey/github-slideshow)
-5. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/github-slideshow/issues/1) in [Susmita-Dey/github-slideshow](https://github.com/Susmita-Dey/github-slideshow)
-6. 🗣 Commented on [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-7. ❗️ Closed issue [#1](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/1) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-8. ❗️ Closed issue [#3](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/3) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-9. 🗣 Commented on [#3](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/issues/3) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
-10. 🎉 Merged PR [#5](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp/pull/5) in [Susmita-Dey/Math-Quiz-Game-In-Cpp](https://github.com/Susmita-Dey/Math-Quiz-Game-In-Cpp)
+
 <!--END_SECTION:activity-->
 	
 </details>
