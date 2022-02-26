@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 <a href="https://github.com/its-abhirup">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-abhirup&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Abhirup's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-abhirup&layout=compact&theme=react&hide_border=true" />
+	<img src="https://github-readme-stats.vercel.app/api?username=its-abhirup&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Abhirup's github stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-abhirup&layout=compact&theme=react&hide_border=true" /> -->
 </a>
 </p>
 </details>
