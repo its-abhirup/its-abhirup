@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 <p align="center">
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="45px"></span>&nbsp;
+<!-- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cpplus-original.svg" width="45px"></span>&nbsp; -->
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="45px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="45px"></span>&nbsp;
