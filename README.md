@@ -90,7 +90,6 @@ Here are some ideas to get you started:
 <br>
 	
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 	
 </details>
