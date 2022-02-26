@@ -90,6 +90,8 @@ Here are some ideas to get you started:
 <br>
 	
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/opensourcecommunity-hub/amazing-github-profiles/pull/2) in [opensourcecommunity-hub/amazing-github-profiles](https://github.com/opensourcecommunity-hub/amazing-github-profiles)
+2. ❗️ Opened issue [#3642](https://github.com/EddieHubCommunity/support/issues/3642) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 	
 </details>
